@@ -2,4 +2,4 @@
 
 ## Requires docker & ddev.
 
-Usage: . ./createENV.command -n directoryName
+Usage: sh ./createENV.sh -n directoryName
